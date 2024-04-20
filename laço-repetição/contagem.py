@@ -1,4 +1,4 @@
-num = 1
+num = 0
 total = 10
 
 while num <= 10:
